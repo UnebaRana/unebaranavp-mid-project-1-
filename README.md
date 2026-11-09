@@ -1,4 +1,3 @@
-# unebaranavp-mid-project-1-LAN 
 Games Arena (Visual Programming Project)
 Developed by uneba rana  & Sir Muhammad Abdullah (add team mates after these names in UI.cs -> AppInfo).
 
