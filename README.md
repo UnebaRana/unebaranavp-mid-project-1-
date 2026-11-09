@@ -1,5 +1,5 @@
 
-# 🎮 AN Games Arena (Visual Programming Project)
+#  AN Games Arena (Visual Programming Project)
 
 Developed by **Uneba Rana & Sir Muhammad Abdullah**
 
@@ -9,7 +9,7 @@ Developed by **Uneba Rana & Sir Muhammad Abdullah**
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 AN Games Arena is a multiplayer gaming application developed using C# Windows Forms. It allows players to enjoy different games over LAN or the same Wi-Fi network.
 
@@ -21,7 +21,7 @@ AN Games Arena is a multiplayer gaming application developed using C# Windows Fo
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Requirements
 
@@ -41,7 +41,7 @@ Allow the application through Windows Firewall on the Private Network when promp
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Enter your player name.
 2. Select your favorite game.
@@ -60,7 +60,7 @@ To test the application on one computer:
 
 ---
 
-## ✅ Project Requirements (Sir's Checklist)
+##  Project Requirements (Sir's Checklist)
 
 | # | Requirement | Implementation |
 |---|---|---|
@@ -73,7 +73,7 @@ To test the application on one computer:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C#
 - Windows Forms
@@ -85,7 +85,7 @@ To test the application on one computer:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Add your project screenshots here.
 
@@ -103,7 +103,7 @@ Add your project screenshots here.
 
 ---
 
-## 👩‍💻 Developers
+##  Developers
 
 - **Uneba Rana**
 - **Sir Muhammad Abdullah**
@@ -111,7 +111,7 @@ Add your project screenshots here.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AN-Games-Arena/
