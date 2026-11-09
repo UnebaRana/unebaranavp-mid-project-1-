@@ -1,12 +1,13 @@
-# unebaranavp-mid-project-1-LAN Games Arena (Visual Programming Project)
+# unebaranavp-mid-project-1-LAN 
+Games Arena (Visual Programming Project)
 Developed by uneba rana  & Sir Muhammad Abdullah (add team mates after these names in UI.cs -> AppInfo).
 
 Games: Ludo (2-4 players, sounds), Chess (realistic board + chat), Tic-Tac-Toe. All play over LAN / same Wi-Fi.
 
 Run
-Install .NET 8 SDK + Visual Studio 2022 (".NET desktop development").
-Open LanGames.csproj -> press F5 (or dotnet run in this folder).
-Allow the app in Windows Firewall (Private network) the first time.
+1.Install .NET 8 SDK + Visual Studio 2022 (".NET desktop development").
+2.Open LanGames.csproj -> press F5 (or dotnet run in this folder).
+3.Allow the app in Windows Firewall (Private network) the first time.
 How to play
 Type your name -> pick a game -> Host Game (Ludo: choose 2/3/4 players first).
 Other PCs: Join Game -> choose the host from the list (or type its IP shown on the waiting screen).
