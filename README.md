@@ -1,4 +1,4 @@
-Games Arena (Visual Programming Project)
+unebaranavp-mid-project Games Arena (Visual Programming Project)
 Developed by uneba rana  & Sir Muhammad Abdullah (add team mates after these names in UI.cs -> AppInfo).
 
 Games: Ludo (2-4 players, sounds), Chess (realistic board + chat), Tic-Tac-Toe. All play over LAN / same Wi-Fi.
